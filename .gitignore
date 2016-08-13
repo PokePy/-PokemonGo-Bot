@@ -104,7 +104,6 @@ share/
 
 # Personal load details
 src/
-web/
 data/last-location*.json
 data/cells-*.json
 data/map-caught-*.json
